@@ -1,5 +1,7 @@
 # AzerothCore Single Player
 
+Release repository for repositories https://github.com/stars/kadeshar/lists/azerothcore-single-player
+
 ## _**Informations**_
 
 Additional modules:
@@ -39,7 +41,7 @@ IMPORTANT: Script xampp.bat must be run always when ASP change location
 - to start server run file Start.bat. After launcher startup click buttons in order Database, World, Logon
 - run game (default account admin/123456 which have GM)
 - to start website click button "Website" in launcher. Website is available on address "localhost" 
-- to stop server click buttons in order  Logon, World, Database
+- to stop server click buttons in order  Logon, World, Database\
 IMPORTANT: Never close server by closing all windows. It can corrupt your database!!!
 
 ## _**Upgrade**_
