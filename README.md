@@ -29,11 +29,11 @@ Client addons:
 
 ## _**Installation**_
 
-- install dependencies from folder Installations. 
+- install dependencies from folder Installations. \
 IMPORTANT: Script xampp.bat must be run always when ASP change location
 - restart computer
-- download WoW 3.3.5 client
-	Classic: https://www.chromiecraft.com/en/downloads/
+- download WoW 3.3.5 client\
+	Classic: https://www.chromiecraft.com/en/downloads/ \
 	Modern (Zavarius): https://1fichier.com/?0qauls7p3cl83dplz2je
 - change file located in WoW client Data/enUS/realmlist.wtf on "set realmlist 127.0.0.1"
 - to start server run file Start.bat. After launcher startup click buttons in order Database, World, Logon
@@ -41,8 +41,17 @@ IMPORTANT: Script xampp.bat must be run always when ASP change location
 - to start website click button "Website" in launcher. Website is available on address "localhost" 
 - to stop server click buttons in order  Logon, World, Database
 IMPORTANT: Never close server by closing all windows. It can corrupt your database!!!
-	
 
+## _**Upgrade**_
+WARNING:
+- custom db modification can break update script!!!
+- configs will be overridden because often structure changes!!! 
+
+IMPORTANT: backup whole server before update
+
+- Replace all files
+- Run script "Install xampp" from Installation folder
+- Reapply custom settings (especial progression)
 
 ## _**Known issues**_
 - playerbots dont work in Strand of the Ancients (issue: https://github.com/liyunfan1223/mod-playerbots/issues/559)
@@ -97,5 +106,3 @@ Go to ASP\Server\tools\Trion Control Panel and in TrionControlPanelDesktop.exe p
 
 ### Skip death knight starting area
 Talk with The Lich King a use option "I wish to skip the Death Knight starter questline"
-
-More is available on website.
