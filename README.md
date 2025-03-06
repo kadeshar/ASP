@@ -13,6 +13,7 @@ Additional modules:
 - Hardcore
 - Skip DK starting area
 - Acore mall
+- Eluna
 
 Additional features:
 - Trion control panel (Server launcher)
