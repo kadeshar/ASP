@@ -57,7 +57,7 @@ IMPORTANT: backup whole server before update
 - Reapply custom settings (especial progression)
 
 ## _**Support**_
-If you need support then community support is on discord https://discord.com/invite/single-player-project-291115666097045506 (channel spp-wotlk)
+If you need support then community support is on discord https://discord.com/invite/single-player-project-291115666097045506 (channel spp-wotlk) \
 If you want to support me you can buy me a coffee https://buymeacoffee.com/kadeshar
 
 ## _**Known issues**_
