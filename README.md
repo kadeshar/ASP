@@ -62,7 +62,7 @@ IMPORTANT: backup whole server before update
   <tbody>
     <tr>
       <td>If you need support</td>
-      <td>[![](https://dcbadge.limes.pink/api/server/single-player-project-291115666097045506)](https://discord.gg/single-player-project-291115666097045506) \ (channel spp-wotlk)</td>
+      <td>![](https://dcbadge.limes.pink/api/server/single-player-project-291115666097045506)](https://discord.gg/single-player-project-291115666097045506) \ (channel spp-wotlk)</td>
     </tr>
     <tr>
       <td>If you want to support me</td>
