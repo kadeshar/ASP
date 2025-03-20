@@ -57,8 +57,19 @@ IMPORTANT: backup whole server before update
 - Reapply custom settings (especial progression)
 
 ## _**Support**_
-If you need support then community support is on discord [![](https://dcbadge.limes.pink/api/server/single-player-project-291115666097045506)](https://discord.gg/single-player-project-291115666097045506) (channel spp-wotlk) \
-If you want to support me you can buy me a coffee <a href="https://buymeacoffee.com/kadeshar" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
+
+<table>
+  <tbody>
+    <tr>
+      <td>If you need support</td>
+      <td>[![](https://dcbadge.limes.pink/api/server/single-player-project-291115666097045506)](https://discord.gg/single-player-project-291115666097045506) \ (channel spp-wotlk)</td>
+    </tr>
+    <tr>
+      <td>If you want to support me</td>
+      <td><a href="https://buymeacoffee.com/kadeshar" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></td>
+    </tr>
+  </tbody>
+</table>
 
 ## _**Known issues**_
 - playerbots dont work in Strand of the Ancients (issue: https://github.com/liyunfan1223/mod-playerbots/issues/559)
