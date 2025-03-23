@@ -74,7 +74,7 @@ IMPORTANT: backup whole server before update
 Instruction is in Extensions/Pdump converter. Not all repacks are supported.
 
 ### Change realm IP
-Use launcher database editor and change "Address" (not "Local Address") and save. Change realmlist.wtf content in WoW client. Setup firewall to allow traffic for ports 8085 and 3724.
+Run database using launcher. Use launcher database editor and change "Address" (not "Local Address") and save. Change realmlist.wtf content in WoW client. Setup firewall to allow traffic for ports 8085 and 3724.
 
 ### Change progression
 Detailed instruction is in file ASP/Extensions/Progression/Progression - instruction.txt
