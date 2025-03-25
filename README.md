@@ -45,14 +45,14 @@ IMPORTANT: Script xampp.bat must be run always when ASP change location
 - to stop server click buttons in order  Logon, World, Database\
 IMPORTANT: Never close server by closing all windows. It can corrupt your database!!!
 
-## _**Upgrade**_
+## _**Update**_
 WARNING:
-- custom db modification can break update script!!!
+- custom db modification can break update scripts!!!
 - configs will be overridden because often structure changes!!! 
 
 IMPORTANT: backup whole server before update
 
-- Replace all files
+- From old repack folder copy ASP/Server/mysql and paste into unpacked update_only archives (same location)
 - Run script "Install xampp" from Installation folder
 - Reapply custom settings (especial progression)
 
