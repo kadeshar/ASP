@@ -14,6 +14,7 @@ Additional modules:
 - Skip DK starting area
 - Acore mall
 - Eluna
+- Ollama
 
 Additional features:
 - Trion control panel (Server launcher)
@@ -116,3 +117,7 @@ Go to ASP\Server\tools\Trion Control Panel and in TrionControlPanelDesktop.exe p
 
 ### Skip death knight starting area
 Talk with The Lich King a use option "I wish to skip the Death Knight starter questline"
+
+### Use local LLM to bots
+Instruction is located in ASP\Extensions\Ollama\Instruction.txt
+Module is in very early stage. You can make issues but not expect much support.
