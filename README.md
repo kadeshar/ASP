@@ -21,6 +21,7 @@ Additional features:
 - Website (Simple website + armory + playermap)
 - WoWSim (SimulationCraft alternative)
 - Keria3 (Database editor)
+- Windows Memory Cleaner (Memory cleaner for long running servers)
 
 Client addons:
 - AzerothCoreAdmin
@@ -33,8 +34,8 @@ Client addons:
 
 ## _**Installation**_
 
+- put file ending with .001 and .002 in same folder and unpack .001 using [7zip](https://www.7-zip.org/). If you dont get any error that means both files are unpacked.
 - install dependencies from folder Installations. \
-IMPORTANT: Script xampp.bat must be run always when ASP change location
 - restart computer
 - download WoW 3.3.5 client\
 	Classic: https://www.chromiecraft.com/en/downloads/ \
@@ -44,7 +45,10 @@ IMPORTANT: Script xampp.bat must be run always when ASP change location
 - run game (default account admin/123456 which have GM)
 - to start website click button "Website" in launcher. Website is available on address "localhost" 
 - to stop server click buttons in order  Logon, World, Database\
-IMPORTANT: Never close server by closing all windows. It can corrupt your database!!!
+IMPORTANT: \
+Never close server by closing all windows. It can corrupt your database!!!\
+Remember to periodically back up the repack. Every power outage can corrupt you database!!!\
+Script "ASP\Installations\Install xampp.bat" must be run always when ASP change location on disc
 
 ## _**Update**_
 WARNING:
@@ -53,6 +57,7 @@ WARNING:
 
 IMPORTANT: backup whole server before update
 
+- put file ending with .001 and .002 in same folder and unpack .001 using [7zip](https://www.7-zip.org/). If you dont get any error that means both files are unpacked.
 - From old repack folder copy ASP/Server/mysql and paste into unpacked update_only archives (same location)
 - Run script "Install xampp" from Installation folder
 - Reapply custom settings (especial progression)
@@ -66,7 +71,6 @@ IMPORTANT: backup whole server before update
 
 ## _**Known issues**_
 - playerbots dont work in Strand of the Ancients (issue: https://github.com/liyunfan1223/mod-playerbots/issues/559)
-- playerbots dont work in Isle of Conquest
 - playerbots dont queue on Wintergrasp
 
 ## _**FAQ**_
