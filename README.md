@@ -15,6 +15,8 @@ Additional modules:
 - Acore mall
 - Eluna
 - Ollama
+- Junk to gold
+- Dead means dead
 
 Additional features:
 - Trion control panel (Server launcher)
@@ -35,7 +37,7 @@ Client addons:
 ## _**Installation**_
 
 - put file ending with .001 and .002 in same folder and unpack .001 using [7zip](https://www.7-zip.org/). If you dont get any error that means both files are unpacked.
-- install dependencies from folder Installations. \
+- install dependencies from folder Installations.
 - restart computer
 - download WoW 3.3.5 client\
 	Classic: https://www.chromiecraft.com/en/downloads/ \
@@ -48,7 +50,8 @@ Client addons:
 IMPORTANT: \
 Never close server by closing all windows. It can corrupt your database!!!\
 Remember to periodically back up the repack. Every power outage can corrupt you database!!!\
-Script "ASP\Installations\Install xampp.bat" must be run always when ASP change location on disc
+Script "ASP\Installations\Install xampp.bat" must be run always when ASP change location on disc\
+Keep ASP files on SSD disc for better performance
 
 ## _**Update**_
 WARNING:
