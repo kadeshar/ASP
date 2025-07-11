@@ -79,7 +79,12 @@ IMPORTANT: backup whole server before update
 ## _**FAQ**_
 
 ### Transfer character from other repack
-Instruction is in Extensions/Pdump converter. Not all repacks are supported.
+Instruction is in Extensions/Pdump converter.
+Supported source repacks:
+- SPP wotlk (DB:18)
+- Skuly wotlk
+- Zaicopx wotlk
+- Zavarius wotlk
 
 ### Change realm IP
 Run database using launcher. Use launcher database editor and change "Address" (not "Local Address") and save. Change realmlist.wtf content in WoW client. Setup firewall to allow traffic for ports 8085 and 3724.
@@ -123,8 +128,7 @@ Change that value on 8 for open world pvp.
 Go to ASP\Server\tools\Trion Control Panel and in TrionControlPanelDesktop.exe properties tab Compatibility set override high DPI scaling behavior on System (Enhanced).
 
 ### Skip death knight starting area
-Talk with The Lich King a use option "I wish to skip the Death Knight starter questline"
+Talk with The Lich King and use option "I wish to skip the Death Knight starter questline"
 
-### Use local LLM to bots
+### Use local LLM on bots
 Instruction is located in ASP\Extensions\Ollama\Instruction.txt
-Module is in very early stage. You can make issues but not expect much support.
