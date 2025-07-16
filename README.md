@@ -132,3 +132,15 @@ Talk with The Lich King and use option "I wish to skip the Death Knight starter 
 
 ### Use local LLM on bots
 Instruction is located in ASP\Extensions\Ollama\Instruction.txt
+
+## _**Credits**_
+
+Special thanks to the people without whom this project would be impossible:
+- AzerothCore stuff for his huge support for core and modules https://github.com/azerothcore/azerothcore-wotlk/graphs/contributors
+- Liyunfan1223 and his team making AzerothCore Playerbots https://github.com/liyunfan1223/mod-playerbots/graphs/contributors
+- Celguar and his team making Cmangos Playerbots which learn me a lot about playerbots https://github.com/cmangos/playerbots/graphs/contributors
+- FlyingPhoenix for his fantastic launcher https://github.com/fIyingPhoenix
+- DustinHendrickson for his fantastic modules https://github.com/DustinHendrickson
+- Noisiver for his fantastic modules https://github.com/noisiver
+- Macx-Lio for his fantastic addon to control playerbots https://github.com/Macx-Lio
+- and other which works to make WoW Emulator World alive :)
