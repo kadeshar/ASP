@@ -89,6 +89,7 @@ Supported source repacks:
 - Skuly wotlk
 - Zaicopx wotlk
 - Zavarius wotlk
+- most probably other AzerothCore based repacks
 
 ### Change realm IP
 Run database using launcher. Use launcher database editor and change "Address" (not "Local Address") and save. Change realmlist.wtf content in WoW client. Setup firewall to allow traffic for ports 8085 and 3724.
