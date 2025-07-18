@@ -79,7 +79,7 @@ IMPORTANT: backup whole server before update
 ## _**FAQ**_
 
 ### Repack commands
-Azerothcore https://www.azerothcore.org/wiki/gm-commands\
+Azerothcore https://www.azerothcore.org/wiki/gm-commands \
 Playerbots https://github.com/liyunfan1223/mod-playerbots/wiki/Playerbot-Commands
 
 ### Transfer character from other repack
