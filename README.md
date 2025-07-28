@@ -17,10 +17,11 @@ Additional modules:
 - Ollama
 - Junk to gold
 - Dead means dead
+- PvP Titles
 
 Additional features:
 - Trion control panel (Server launcher)
-- Website (Simple website + armory + playermap)
+- Website (Simple website + armory + playermap + pvp stats)
 - WoWSim (SimulationCraft alternative)
 - Keria3 (Database editor)
 - Windows Memory Cleaner (Memory cleaner for long running servers)
