@@ -94,7 +94,7 @@ Supported source repacks:
 - most probably other AzerothCore based repacks
 
 ### Change realm IP
-Run database using launcher. Use launcher database editor and change "Address" (not "Local Address") and save. Change realmlist.wtf content in WoW client. Setup firewall to allow traffic for ports 8085 and 3724.
+Run database using launcher. Use launcher database editor and change "Address" (not "Local Address") and save. Change realmlist.wtf content in WoW client. Setup firewall to allow traffic for ports 8085 and 3724 (and router if you want use public ip address)
 
 ### Change progression
 Detailed instruction is in file ASP/Extensions/Progression/Progression - instruction.txt
@@ -139,6 +139,9 @@ Talk with The Lich King and use option "I wish to skip the Death Knight starter 
 
 ### Use local LLM on bots
 Instruction is located in ASP\Extensions\Ollama\Instruction.txt
+
+### How to move Multibot addon
+Using right mouse buttom drag and drop method on cogs icon
 
 ## _**Credits**_
 
