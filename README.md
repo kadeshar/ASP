@@ -1,6 +1,22 @@
 # AzerothCore Single Player
 
-Release repository for repositories https://github.com/stars/kadeshar/lists/azerothcore-single-player
+<strong>AzerothCore Single Player</strong> is a curated collection of modules and add-ons for AzerothCore, designed to provide a comprehensive single-player World of Warcraft testing environment. The entire experience is packaged into an easy-to-install and ready-to-launch package.
+
+This custom build features:
+
+- <strong>Playerbots:</strong> Advanced bots that simulate a living, breathing world around you. Powered by modern AI, they create realistic interactions, mimicking the experience of playing with real people.
+
+- <strong>Progressive Expansion Content:</strong> Journey through the first three iconic eras of World of Warcraft: Classic (Vanilla), The Burning Crusade (TBC), and Wrath of the Lich King (WOTLK).
+
+- <strong>Dynamic Auction House:</strong> A fully functional Auction House bot that supports the progressive expansion system, ensuring a balanced and evolving economy.
+
+- <strong>Hardcore Mode:</strong> An optional module for players seeking the ultimate challenge and the most demanding gameplay experience.
+
+- <strong>Quality of Life (QoL) Improvements:</strong> Various other modules designed to enhance and streamline your journey through Azeroth.
+
+- <strong>Integrated Website:</strong> A companion website for tracking in-game statistics and progress.
+
+Included Repositories: https://github.com/stars/kadeshar/lists/azerothcore-single-player
 
 ## _**Informations**_
 
@@ -44,7 +60,7 @@ Client addons:
 	Classic: https://www.chromiecraft.com/en/downloads/ \
 	Modern (WotLK 3.3.5a HD Client) https://discord.gg/Gyb9Z252vt \
 	Modern (Zavarius): https://1fichier.com/?0qauls7p3cl83dplz2je
-- change file located in WoW client Data/enUS/realmlist.wtf on "set realmlist 127.0.0.1"
+- change file located in WoW client Data/enUS/realmlist.wtf on "set realmlist 127.0.0.1". In some clients this file is readonly and you have to uncheck that property in file properties.
 - to start server run file Start.bat. After launcher startup click buttons in order Database, World, Logon
 - run game (default account admin/123456 which have GM)
 - to start website click button "Website" in launcher. Website is available on address "localhost" 
@@ -94,7 +110,7 @@ Supported source repacks:
 - most probably other AzerothCore based repacks
 
 ### Change realm IP
-Run database using launcher. Use launcher database editor and change "Address" (not "Local Address") and save. Change realmlist.wtf content in WoW client. Setup firewall to allow traffic for ports 8085 and 3724 (and router if you want use public ip address)
+Run database using launcher. Use launcher database editor and change "Address" (not "Local Address") and save. Change IP (on the same provided in launcher) in realmlist.wtf file located in your WoW client/Data/enUS (or other client language). In some clients this file is readonly and you have to uncheck that property in file properties. Setup firewall to allow traffic for ports 8085 and 3724 (and router if you want use public ip address)
 
 ### Change progression
 Detailed instruction is in file ASP/Extensions/Progression/Progression - instruction.txt
@@ -132,7 +148,7 @@ Change that value on 8 for open world pvp.
 - add all bots to guild using azerothcore command "guild invite botname "Guild Name"
 
 ### Launcher is running with strange fonts and missing features
-Go to ASP\Server\tools\Trion Control Panel and in TrionControlPanelDesktop.exe properties tab Compatibility set override high DPI scaling behavior on System (Enhanced).
+Close launcher and go to ASP\Server\tools\Trion Control Panel and in TrionControlPanelDesktop.exe properties tab Compatibility set override high DPI scaling behavior on System (Enhanced).
 
 ### Skip death knight starting area
 Talk with The Lich King and use option "I wish to skip the Death Knight starter questline"
