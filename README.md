@@ -65,6 +65,7 @@ Client addons:
 - run game (default account admin/123456 which have GM)
 - to start website click button "Website" in launcher. Website is available on address "localhost" 
 - to stop server click buttons in order  Logon, World, Database\
+\
 IMPORTANT: \
 Never close server by closing all windows. It can corrupt your database!!!\
 Remember to periodically back up the repack. Every power outage can corrupt you database!!!\
@@ -96,6 +97,10 @@ IMPORTANT: backup whole server before update
 
 ## _**FAQ**_
 
+### Create new account
+Run command in the worldserver Windows
+```account create $account $password```
+
 ### Repack commands
 Azerothcore https://www.azerothcore.org/wiki/gm-commands \
 Playerbots https://github.com/liyunfan1223/mod-playerbots/wiki/Playerbot-Commands
@@ -119,13 +124,13 @@ Detailed instruction is in file ASP/Extensions/Progression/Progression - instruc
 Addons are located in folder ASP/Extensions/Addons. Copy them to your WoW Client Interface folder.
 
 ### Summon transmogrifier
-Use command GM command ".transmog portable"
+Use command GM command ```.transmog portable```
 
 ### Synchronize transmog addon
-Use in-game command ".transmog sync"
+Use in-game command ```.transmog sync```
 
 ### Database credentials
-Login: acore
+Login: acore\
 Password: acore
 
 ### Open world PVP
@@ -135,17 +140,17 @@ Open Server/config/worldserver.conf file in notepad and search phrase "GameType"
 Change that value on 8 for open world pvp.
 
 ### Raids/dungeons with bots
-- create other accounts using azerothcore command ".account create accountname password"
+- create other accounts using azerothcore command ```.account create accountname password```
 - create characters which you want in your guild (max 10 per account)
 - adjust characters
-	- use azerothcore command ".char level 80" to change bot level
-	- use playerbot command "talents" to check current bot spec
-	- use playerbot command "talents spec list" to check available for bot class specs
-	- use playerbot command "talents spec specname" to switch bot to specific spec
-	- use playerbot command "autogear" to gear bot for current spec
-	- use playerbot command "maintenance" to learn all spell and skills, enchant gear and supplement consumables for current spec
-- create guild using azerothcore command ".guild create GuildMasterCharacterName "Guild Name""
-- add all bots to guild using azerothcore command "guild invite botname "Guild Name"
+	- use azerothcore command ```.char level 80``` to change bot level
+	- use playerbot command ```talents``` to check current bot spec
+	- use playerbot command ```talents spec list``` to check available for bot class specs
+	- use playerbot command ```talents spec specname``` to switch bot to specific spec
+	- use playerbot command ```autogear``` to gear bot for current spec
+	- use playerbot command ```maintenance``` to learn all spell and skills, enchant gear and supplement consumables for current spec
+- create guild using azerothcore command ```.guild create GuildMasterCharacterName "Guild Name"```
+- add all bots to guild using azerothcore command ```guild invite botname "Guild Name"```
 
 ### Launcher is running with strange fonts and missing features
 Close launcher and go to ASP\Server\tools\Trion Control Panel and in TrionControlPanelDesktop.exe properties tab Compatibility set override high DPI scaling behavior on System (Enhanced).
