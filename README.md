@@ -54,7 +54,7 @@ Client addons:
 ## _**Installation**_
 
 - put file ending with .001 and .002 in same folder and unpack .001 using [7zip](https://www.7-zip.org/). If you dont get any error that means both files are unpacked.
-- install dependencies from folder Installations.
+- install dependencies from the ASP/Installations folder.
 - restart computer
 - download WoW 3.3.5 client\
 	Classic: https://www.chromiecraft.com/en/downloads/ \
