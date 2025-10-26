@@ -164,6 +164,11 @@ Instruction is located in ASP\Extensions\Ollama\Instruction.txt
 ### How to move Multibot addon
 Using right mouse buttom drag and drop method on cogs icon
 
+### How to change prices on Auction House
+There is few ways to do that:
+- globally you can modify in ASP/Server/configs/modules/mod_auctionator.conf.dist values Auctionator.Multipliers.Seller
+- for specific item you can modify/add record in SQL table acore_characters.mod_auctionator_market_price
+
 ## _**Credits**_
 
 Special thanks to the people without whom this project would be impossible:
