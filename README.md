@@ -34,6 +34,8 @@ Additional modules:
 - Junk to gold
 - Dead means dead
 - PvP Titles
+- Regeant bank
+- NPC services
 
 Additional features:
 - Trion control panel (Server launcher)
