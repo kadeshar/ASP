@@ -172,8 +172,8 @@ There is few ways to do that:
 - for specific item you can modify/add record in SQL table acore_characters.mod_auctionator_market_price
 
 ### How to reset raid/dungeon cooldown
-For selected player you can use command ".instance unbind all"
-For whole server you can use custom command ".instances reset"
+- for selected player you can use command ".instance unbind all"
+- for whole server you can use custom command ".instances reset"
 
 ## _**Credits**_
 
