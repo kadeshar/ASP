@@ -85,6 +85,8 @@ IMPORTANT: backup whole server before update
 - From old repack folder copy ASP/Server/mysql and paste into unpacked update_only archives (same location)
 - Run script "Install xampp" from Installation folder
 - Reapply custom settings (especial progression)
+- If updating:
+	- from version 1.2.0 or older to 1.3.0 or later go to "ASP\Server\tools\Trion Control Panel old" and open file Settings.xml in notepad and change key "DropAcoreWorldOnNextDatabaseStart" on true
 
 ## _**Support**_
 
