@@ -61,7 +61,7 @@ Client addons:
 - download WoW 3.3.5 client\
 	Classic: https://www.chromiecraft.com/en/downloads/ \
 	Modern (WotLK 3.3.5a HD Client) https://discord.gg/Gyb9Z252vt \
-	Modern (Zavarius): https://1fichier.com/?0qauls7p3cl83dplz2je
+	Modern (Zavarius): https://mega.nz/file/xARxDBaQ#OxRwRdYBqY1oFRDXEmMAput7Ir1FKfUTrX4mdjBku5E
 - change file located in WoW client Data/enUS/realmlist.wtf on "set realmlist 127.0.0.1". In some clients this file is readonly and you have to uncheck that property in file properties.
 - to start server run file Start.bat. After launcher startup click buttons in order Database, World, Logon
 - run game (default account admin/123456 which have GM)
