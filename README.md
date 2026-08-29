@@ -22,7 +22,6 @@ Included Repositories: https://github.com/stars/kadeshar/lists/azerothcore-singl
 
 Additional modules:
 - Playerbots
-- Playerbots level brackets
 - Auctionator
 - Transmog
 - Progression
@@ -36,6 +35,10 @@ Additional modules:
 - PvP Titles
 - Regeant bank
 - NPC services
+- Reagent bank
+- Dungeon clean
+- Token turnin
+- Multibot bridge
 
 Additional features:
 - Trion control panel (Server launcher)
@@ -55,6 +58,7 @@ Client addons:
 
 ## _**Installation**_
 
+- download files with suffix _full from newest [release](https://github.com/kadeshar/ASP/releases#newest) for example ASP_1.5.0_full.7z.001 and ASP_1.5.0_full.7z.002 
 - put file ending with .001 and .002 in same folder and unpack .001 using [7zip](https://www.7-zip.org/). If you dont get any error that means both files are unpacked.
 - install dependencies from the ASP/Installations folder.
 - restart computer
@@ -81,6 +85,7 @@ WARNING:
 
 IMPORTANT: backup whole server before update
 
+- download files with suffix _full from newest [release](https://github.com/kadeshar/ASP/releases#newest) for example ASP_1.5.0_update_only.7z.001 and ASP_1.5.0_update_only.7z.002
 - put file ending with .001 and .002 in same folder and unpack .001 using [7zip](https://www.7-zip.org/). If you dont get any error that means both files are unpacked.
 - From old repack folder copy ASP/Server/mysql and paste into unpacked update_only archives (same location)
 - Run script "Install xampp" from Installation folder
